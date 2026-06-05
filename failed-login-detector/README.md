@@ -28,11 +28,4 @@ admin: 1
 guest: 1
 
 
----
 
-### About `auth.log`
-
-Since this is a project repo, keep a small sample log file:
-
-```text
-auth.log
